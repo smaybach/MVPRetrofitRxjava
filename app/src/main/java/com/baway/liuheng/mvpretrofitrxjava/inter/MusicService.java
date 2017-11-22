@@ -11,6 +11,6 @@ import retrofit2.http.GET;
 
 public interface MusicService {
 
-    @GET("getVideoList.do?catalogId=402834815584e463015584e539330016")
+    @GET("iYXEPGn4e9c6dafce6e5cdd23287d2bb136ee7e9194d3e9?uri=vedio")
     Call<UserBean> getdata();
 }

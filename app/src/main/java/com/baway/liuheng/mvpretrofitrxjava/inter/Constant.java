@@ -5,7 +5,7 @@ package com.baway.liuheng.mvpretrofitrxjava.inter;
  */
 
 public class Constant {
-    public static final String URL="http://api.svipmovie.com/front/columns/";
+    public static final String URL="http://result.eolinker.com/";
 
 
 

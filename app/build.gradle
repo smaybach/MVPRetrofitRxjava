@@ -5,7 +5,7 @@ android {
     buildToolsVersion "26.0.2"
     defaultConfig {
         applicationId "com.baway.liuheng.mvpretrofitrxjava"
-        minSdkVersion 15
+        minSdkVersion 16
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"
@@ -36,4 +36,5 @@ dependencies {
     compile 'com.squareup.okhttp3:okhttp:3.1.2'
     compile 'com.android.support:recyclerview-v7:26.0.0-alpha1'
     compile 'com.facebook.fresco:fresco:0.11.0'
+    compile 'fm.jiecao:jiecaovideoplayer:5.5'
 }
